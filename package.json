@@ -1,0 +1,18 @@
+{
+  "name": "quantum-breaker",
+  "version": "1.0.0",
+  "description": "Futuristic 3D Cyberpunk Brick Breaker for start.ng built with Three.js and Web Audio API",
+  "scripts": {
+    "start": "node init && npx serve -l 3000 .",
+    "dev": "node init && npx serve -l 3000 ."
+  },
+  "keywords": [
+    "threejs",
+    "startng",
+    "brick-breaker",
+    "breakout",
+    "arcade"
+  ],
+  "author": "hbiit",
+  "license": "MIT"
+}

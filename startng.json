@@ -1,0 +1,9 @@
+{
+  "leaderboard": {
+    "stats": [
+      { "key": "score", "label": "Score", "order": "highest", "format": "number" },
+      { "key": "sector", "label": "Sector Cleared", "order": "highest", "format": "number" },
+      { "key": "combo", "label": "Max Combo", "order": "highest", "format": "number" }
+    ]
+  }
+}
